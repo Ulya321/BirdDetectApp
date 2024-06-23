@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="light_gray">#D3D3D3</color>
+    <color name="purple_300">#FF6200EE</color>
+    <color name="purple_700">#FF6200EE</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">BirdTypeDetection</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="click_to_search">Click on result to search image on google</string>
+    <string name="default_image">default Image</string>
+    <string name="dummy_text">Dummy Text 2</string>
+    <string name="load_image">Load Image</string>
+    <string name="output">Output:-</string>
+    <string name="result">Result Here</string>
+    <string name="take_photo">Take Photo</string>
+    <style name="Base.Theme.BirdTypeDetection" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.BirdTypeDetection" parent="Base.Theme.BirdTypeDetection"/>
+</resources>

@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color light_gray
+color purple_300
+color purple_700
+color white
+drawable ic_baseline_image_search_24
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable imageview_background
+drawable rounded_button
+drawable textview_background
+id bt_load_image
+id bt_take_photo
+id iv_add_image
+id ll_button
+id tv_result
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string capture_image
+string click_to_search
+string default_image
+string dummy_text
+string load_image
+string output
+string result
+string take_photo
+style Base.Theme.BirdTypeDetection
+style Theme.BirdTypeDetection
+xml backup_rules
+xml data_extraction_rules
+xml file_paths
